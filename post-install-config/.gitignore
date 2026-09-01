@@ -1,0 +1,19 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+
+# Secrets and local configuration
+.env
+*.env
+*.key
+*.pem
+credentials*
+secrets*
+
+# Temporary files
+*.tmp
+*.bak
